@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-with-React.js
 
-Make sure to navigate to the folder wjwuw8 (inser this comand on terminal: cd wjwuw8).
+Make sure to navigate to the folder wjwuw8 (insert this comand on terminal: cd wjwuw8).
 
 To ensure that dependencies are configured, run the command: npm install 
 
